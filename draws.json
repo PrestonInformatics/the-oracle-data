@@ -3,12 +3,12 @@
     "system": "The Oracle Engine",
     "version": "1.0.0",
     "domain": "theoracle.prestoninformatics.com",
-    "last_updated": "2026-08-15T02:56:05.151Z",
+    "last_updated": "2026-08-16T17:50:45.365Z",
     "games": {
       "PB": {
         "name": "Powerball",
         "matrix": "5/69+1/26",
-        "latest_draw_date": "2026-08-12",
+        "latest_draw_date": "2026-08-15",
         "total_draws": 234
       },
       "MM": {
@@ -21,6 +21,17 @@
   },
   "draws": {
     "PB": [
+      {
+        "d": "2026-08-15",
+        "w": [
+          5,
+          8,
+          27,
+          29,
+          63
+        ],
+        "b": 13
+      },
       {
         "d": "2026-08-12",
         "w": [
@@ -2583,17 +2594,6 @@
           57
         ],
         "b": 9
-      },
-      {
-        "d": "2025-02-15",
-        "w": [
-          3,
-          16,
-          45,
-          54,
-          56
-        ],
-        "b": 12
       }
     ],
     "MM": [
