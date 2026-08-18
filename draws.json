@@ -3,13 +3,13 @@
     "system": "The Oracle Engine",
     "version": "1.0.0",
     "domain": "theoracle.prestoninformatics.com",
-    "last_updated": "2026-08-16T17:50:45.365Z",
+    "last_updated": "2026-08-18T04:00:43.638Z",
     "games": {
       "PB": {
         "name": "Powerball",
         "matrix": "5/69+1/26",
         "latest_draw_date": "2026-08-15",
-        "total_draws": 234
+        "total_draws": 233
       },
       "MM": {
         "name": "Mega Millions",
@@ -2583,17 +2583,6 @@
           60
         ],
         "b": 20
-      },
-      {
-        "d": "2025-02-17",
-        "w": [
-          4,
-          44,
-          47,
-          52,
-          57
-        ],
-        "b": 9
       }
     ],
     "MM": [
