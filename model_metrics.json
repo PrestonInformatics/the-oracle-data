@@ -4,167 +4,167 @@
     "model_id": "T3",
     "model_name": "Ticket 3: The Grandmaster (Hybrid Fusion)",
     "composite_score": 34.86,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "T5",
     "model_name": "Ticket 5: The Wildcard (Filtered Quick Draw)",
     "composite_score": 32.86,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "C1",
     "model_name": "Control C1: The Bayesian (Prior-Posterior)",
     "composite_score": 29.53,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "T2",
     "model_name": "Ticket 2: The Physicist (Pure Distance)",
     "composite_score": 28.29,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "T1",
     "model_name": "Ticket 1: The Historian (Pure Markov)",
     "composite_score": 26.71,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "T4",
     "model_name": "Ticket 4: The Consensus (Voting Cluster)",
     "composite_score": 25.71,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "T7",
     "model_name": "Ticket 7: The Damped Vector (5-DV Momentum)",
     "composite_score": 23.72,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "C3",
     "model_name": "Control C3: The Pareto (Game Theory Coverage)",
     "composite_score": 22.21,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "T8",
     "model_name": "Ticket 8: The Center-Out (B3 Bell Curve)",
     "composite_score": 19.66,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "T6",
     "model_name": "Ticket 6: The Chaos Theory (Lorenz-Markov)",
     "composite_score": 15.37,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "C2",
     "model_name": "Control C2: The Harmonic (Fourier Spectral)",
     "composite_score": 13.03,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "MM",
     "model_id": "T9",
     "model_name": "Ticket 9: The Golden Spiral (Phi Lattice)",
     "composite_score": 11.11,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "C2",
     "model_name": "Control C2: The Harmonic (Fourier Spectral)",
     "composite_score": 35.94,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "C1",
     "model_name": "Control C1: The Bayesian (Prior-Posterior)",
     "composite_score": 33.07,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "T5",
     "model_name": "Ticket 5: The Wildcard (Filtered Quick Draw)",
     "composite_score": 24.68,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "T8",
     "model_name": "Ticket 8: The Center-Out (B3 Bell Curve)",
     "composite_score": 24.14,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "T6",
     "model_name": "Ticket 6: The Chaos Theory (Lorenz-Markov)",
     "composite_score": 22.67,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "T2",
     "model_name": "Ticket 2: The Physicist (Pure Distance)",
     "composite_score": 22.6,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "T7",
     "model_name": "Ticket 7: The Damped Vector (5-DV Momentum)",
     "composite_score": 22.47,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "T1",
     "model_name": "Ticket 1: The Historian (Pure Markov)",
     "composite_score": 21.47,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "T9",
     "model_name": "Ticket 9: The Golden Spiral (Phi Lattice)",
     "composite_score": 19.5,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "T4",
     "model_name": "Ticket 4: The Consensus (Voting Cluster)",
     "composite_score": 18.87,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "C3",
     "model_name": "Control C3: The Pareto (Game Theory Coverage)",
     "composite_score": 18.4,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   },
   {
     "game_code": "PB",
     "model_id": "T3",
     "model_name": "Ticket 3: The Grandmaster (Hybrid Fusion)",
     "composite_score": 17,
-    "last_updated": "2026-09-17T04:34:13Z"
+    "last_updated": "2026-09-19T04:37:32Z"
   }
 ]
