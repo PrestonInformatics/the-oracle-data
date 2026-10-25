@@ -1,0 +1,50 @@
+name: Verify Tier 2 CDN Draws and Publish Telemetry
+
+on:
+  push:
+    paths:
+      - 'draws.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verify-and-publish:
+    name: Validate draws.json & Publish Report
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Tier 2 CDN Validator
+        id: validator
+        env:
+          OPS_WEBHOOK_URL: ${{ secrets.OPS_WEBHOOK_URL }}
+        run: |
+          python tools/validate_draws_cdn.py
+
+      - name: Commit and Publish refresh_report.html
+        if: always()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add refresh_report.html
+          if git diff --staged --quiet; then
+            echo "No changes to refresh_report.html detected."
+          else
+            git commit -m "Auto-publish refresh_report.html [skip ci]"
+            git push
+          fi
+
+      - name: Propagate Validator Exit Status
+        if: steps.validator.outcome == 'failure'
+        run: |
+          echo "🚨 Validator detected schema anomalies or fatal errors. Check refresh_report.html and Google Chat #ops-alerts."
+          exit 1
