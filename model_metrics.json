@@ -3,85 +3,85 @@
     "game_code": "MM",
     "model_id": "T1",
     "model_name": "The Historian",
-    "composite_score": 22.82,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 24.22,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "T2",
     "model_name": "The Physicist",
-    "composite_score": 22.35,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 21.67,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "T3",
     "model_name": "The Grandmaster",
-    "composite_score": 20.6,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 20.24,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "T4",
     "model_name": "The Consensus",
-    "composite_score": 19.76,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 20.89,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "T5",
     "model_name": "The Wildcard",
-    "composite_score": 20.48,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 22.35,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "T6",
     "model_name": "The Chaos Theory",
-    "composite_score": 26.94,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 27.89,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "T7",
     "model_name": "The Damped Vector",
-    "composite_score": 28.2,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 27.59,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "T8",
     "model_name": "The Center-Out",
-    "composite_score": 25.56,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 24.88,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "T9",
     "model_name": "The Golden Spiral",
-    "composite_score": 22.65,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 22.45,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "C1",
     "model_name": "The Bayesian",
-    "composite_score": 20.45,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 20,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "C2",
     "model_name": "The Harmonic",
-    "composite_score": 24.55,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 23.65,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "MM",
     "model_id": "C3",
     "model_name": "The Pareto",
-    "composite_score": 22.82,
-    "last_updated": "2026-10-28T04:25:06Z"
+    "composite_score": 22.87,
+    "last_updated": "2026-10-31T04:37:43Z"
   },
   {
     "game_code": "PB",
